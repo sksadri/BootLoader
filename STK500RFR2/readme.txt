@@ -1,2 +1,2 @@
-This is the apioDongle bootloader, the current stable version is boot0.1.
+ersion is boot0.1.
 
